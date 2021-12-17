@@ -1,5 +1,6 @@
 # jsonset
-Set JSON values in JSON file by JSONPath.
+Set JSON values in JSON file by JSONPath.  
+Note: Filter feature of JSONPath is not implemented yet.
 
 Command line usage:
 ```text
